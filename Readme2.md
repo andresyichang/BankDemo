@@ -15,5 +15,10 @@ This is *awesome*
 
 I think this is cool...
 
+<<<<<<< HEAD
 
 test compatiblty
+=======
+ONLINE CHANGES
+I SHOULD BE THERE
+>>>>>>> origin/master
