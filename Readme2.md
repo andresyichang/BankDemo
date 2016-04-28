@@ -12,10 +12,5 @@ This is *awesome*
 3. xxxxxxxxxxxxxxxxxxx chnge
 4. yyyyyyyyyyy
 5. kkkkkkkkkkkkkkk
-<<<<<<< HEAD
 
 I think this is cool...
-=======
->>>>>>> parent of 905fe32... changes v2
-
-hi
