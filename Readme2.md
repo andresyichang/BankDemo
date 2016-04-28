@@ -13,6 +13,4 @@ This is *awesome*
 4. yyyyyyyyyyy
 5. kkkkkkkkkkkkkkk
 
-changes version 2
-
 I think this is cool...
